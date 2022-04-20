@@ -1,6 +1,3 @@
-from distutils.spawn import spawn
-
-
 n = int(input())
 a = []
 for i in input().split():
